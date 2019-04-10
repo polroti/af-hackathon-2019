@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>HOME Page </h1>
+        <h1>HOME Page   </h1>
             <Thems/>
       </div>
     );
