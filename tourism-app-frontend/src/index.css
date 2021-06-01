@@ -12,10 +12,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.imgsize{
+.imgsize {
   margin: 10px;
-  width:80%;
-  height:40%;
+  width: 80%;
+  height: 40%;
 }
 body {
   margin: 0;
@@ -27,9 +27,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 h1 {
-  font-family: 'Slabo 27px', serif;
+  font-family: "Slabo 27px", serif;
 }
-p{
-  font-family: 'Crete Round', serif;
+p {
+  font-family: "Crete Round", serif;
 }
-
